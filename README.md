@@ -1,6 +1,11 @@
 <h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
-<h3>Name: </h3>
-<h3>Register Number:     </h3>
+
+**NAME: K.YASHISH**
+
+
+**REG NO: 212224050061**
+
+
 <H3>Aim:</H3>
 <p> To Implement Depth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
@@ -69,12 +74,21 @@ G F <BR>
 F H <BR>
 <hr>
 <h3>Sample Output</h3>
-<hr>
+
 ['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
 
-<hr>
 
-<hr>
+
+
+
+**CODE:**
+
+<img width="523" height="578" alt="Screenshot 2026-01-31 084336" src="https://github.com/user-attachments/assets/4509c276-576f-414d-a697-09a6469ade09" />
+
+**OUTPUT:**
+
+<img width="550" height="592" alt="Screenshot 2026-01-31 084430" src="https://github.com/user-attachments/assets/efbdcb91-32c9-4aba-96a0-716a99ea3392" />
+
 <h3>Sample Input</h3>
 <hr>
 5 5 <BR>
@@ -83,13 +97,24 @@ F H <BR>
 0 3 <BR>
 2 3 <BR>
 2 4 <BR>
-<hr>
-<h3>Sample Output</h3>
-<hr>
+
+**Sample Output:**
+
 ['0', '1', '2', '3', '4']
 
-<hr>
+**CODE:**
+
+<img width="513" height="588" alt="Screenshot 2026-01-31 084506" src="https://github.com/user-attachments/assets/186475f8-62fb-4d62-8de5-3b85bd35010a" />
+
+**OUTPUT:**
+
+<img width="510" height="413" alt="Screenshot 2026-01-31 084553" src="https://github.com/user-attachments/assets/6ffe2002-98a4-4e41-a42a-0352948453b4" />
+
 <h3>Result:</h3>
+
+
+
+
 <hr>
 <p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
 
